@@ -9,7 +9,9 @@ console.log(typeof name);// to check type
 console.log(name.length);//to print length 
 console.log(age.length);//to print length 
 
+
 //array indices
+
 
 let Name = ["ram" , "shyam ", "hari" ," sita" ,"gita" ];
 console.log(name [0]);//to check access value of 0 in array
