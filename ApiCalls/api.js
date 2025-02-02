@@ -17,6 +17,7 @@ const name = async() =>{
 
 
 
+
 // Make a POST request to the API
 
 //To send data to an API, you use the POST method with fetch.
