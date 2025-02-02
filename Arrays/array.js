@@ -24,6 +24,7 @@ console.log(Name [4]);//it will change gita with ram bhadur
 
 //looping on array 
 
+
 //for loop
 let personname = ["ram" , "shyam ", "hari" ," sita" ,"gita" ];
 for (let i = 0; i < personname.length; i++) {
